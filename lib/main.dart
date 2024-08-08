@@ -1,7 +1,5 @@
-// main.dart
-
 import 'package:flutter/material.dart';
-import 'my_snackbar_package.dart';  // Make sure this path is correct based on your file structure
+import 'my_snackbar_package.dart';
 
 void main() {
   runApp(MyApp());
