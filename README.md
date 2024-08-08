@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MySnackbarPackage
 
 A simple Flutter package to display snackbars.
@@ -38,3 +39,6 @@ class MyApp extends StatelessWidget {
 import 'package:my_snackbar_package/my_snackbar_package.dart';
 
 MySnackbar.show(context, 'Hello, Snackbar!');
+=======
+# my_snackbar_package
+>>>>>>> 4ca461910bf47de9090f8e2ea70191d97b00d1ce
